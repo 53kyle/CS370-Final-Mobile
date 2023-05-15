@@ -18,7 +18,7 @@ Recommended on slower machines:
   2) Change engine scaleability settings to medium or low
   3) Change "effects" under this menu to epic
 
-Controls:
+Controls (if using desktop):
   W/A - move forward and back
   A/D - rotate boat counter clockwise and clockwise
   L - toggle lights on boat
