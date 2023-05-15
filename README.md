@@ -26,3 +26,6 @@ Controls:
   Left Clock - initiate fishing
   E - reel in fish
   Right Arrow - cycle through bait
+
+DISCLAIMER:
+The code in this repo is significantly more messy and disorganized compared to the non-mobile version (https://github.com/53kyle/CS370-Final-Project). To get a better representation of our team's code, please take a look at that instead.
